@@ -1,1 +1,1 @@
-git test
+(GIT test) - druga zmiana

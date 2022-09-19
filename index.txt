@@ -1,3 +1,5 @@
 (GIT test) - druga zmiana
 
 trzecia zmiana
+
+4 zmiana
